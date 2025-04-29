@@ -6,6 +6,10 @@
 - 😄 大家可以用「M」来称呼我。
 - ⚡ 有趣的事：马桶上的思想家。
 
+## 最新记录
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!---
 mrm-im/mrm-im is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
