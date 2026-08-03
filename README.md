@@ -8,11 +8,11 @@
 
 ## 最新记录
 <!-- BLOG-POST-LIST:START -->
+- [日记：20260803](https://mrm.im/diary/20260803)
 - [日记：20260802](https://mrm.im/diary/20260802)
 - [日记：20260801](https://mrm.im/diary/20260801)
 - [日记：20260730](https://mrm.im/diary/20260730)
 - [日记：20260729](https://mrm.im/diary/20260729)
-- [日记：20260728](https://mrm.im/diary/20260728)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
